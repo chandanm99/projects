@@ -1,2 +1,4 @@
 # projects
-[Company Work Link](https://afinue.com/)
+[Afinue Website](https://afinue.com/)
+[Zameen Square Website](https://zameensquare.com/)
+[E-commerce Platform](https://ksb-storefront.firstfloor.agency)
